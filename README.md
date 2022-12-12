@@ -10,6 +10,12 @@
 
 This is a clone of the Experiences page of an AirBnB website
 
+## Screenshot
+
+![screenshot](https://res.cloudinary.com/codelikeagirl29/image/upload/v1670843887/projects/AirBnB-Experiences-Clone_btnavf.png)
+
+> Live [link](https://earnest-strudel-58466e.netlify.app/)
+
 ## Installation
 
 The dependencies required are all included in the `package.json` file. They will all be installed by running the `npm install` command.
